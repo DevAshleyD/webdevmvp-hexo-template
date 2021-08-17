@@ -107,4 +107,4 @@ deploy:
   repo: https://git.heroku.com/webdevmvp-hexo-template.git
 
 # Engine
-runtime: nodejs14
+runtime: nodejs12
