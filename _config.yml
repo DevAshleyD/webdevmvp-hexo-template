@@ -103,5 +103,8 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: heroku
+  type: ''
   repo: https://git.heroku.com/webdevmvp-hexo-template.git
+
+# Engine
+runtime: nodejs14
