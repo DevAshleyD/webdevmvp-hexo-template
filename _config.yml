@@ -9,7 +9,7 @@ description: 'For reference only'
 keywords: blog, hexo
 author: WebDevMVP
 language: en
-timezone: '`America/NewYork`'
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -103,4 +103,5 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'netlify'
+  type: heroku
+  repo: https://git.heroku.com/webdevmvp-hexo-template.git
