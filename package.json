@@ -35,7 +35,7 @@
         "hexo-theme-landscape": "^0.0.3",
         "inferno": "^7.3.3",
         "inferno-create-element": "^7.3.3",
-        "moment": "^2.22.2",
+        "moment": "^2.29.2",
         "semver": ">=5.0.0"
     },
     "devDependencies": {
