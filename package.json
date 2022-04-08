@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "deepmerge": "^4.2.2",
-        "hexo": "^5.0.0",
+        "hexo": "^5.4.2",
         "hexo-component-inferno": "^0.13.0",
         "hexo-deployer-ftpsync": "^0.1.1",
         "hexo-deployer-git": "^3.0.0",
