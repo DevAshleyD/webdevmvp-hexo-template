@@ -34,7 +34,7 @@
         "hexo-server": "^2.0.0",
         "hexo-theme-landscape": "^0.0.3",
         "inferno": "^7.3.3",
-        "inferno-create-element": "^7.3.3",
+        "inferno-create-element": "^8.0.3",
         "moment": "^2.22.2",
         "semver": ">=5.0.0"
     },
